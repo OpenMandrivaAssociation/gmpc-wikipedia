@@ -11,6 +11,7 @@ BuildRequires:	libxml2-devel
 BuildRequires:	gtk+2-devel >= 2.4
 BuildRequires:	gmpc-devel >= 0.15.4.102
 BuildRequires:	webkitgtk-devel
+BuildRequires:	intltool
 Requires:	gmpc
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
