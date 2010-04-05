@@ -1,11 +1,11 @@
 Summary:	A wikipedia plugin for gmpc
 Name:		gmpc-wikipedia
-Version:	0.19.0
+Version:	0.20.0
 Release:	%mkrel 1
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl/
-Source0:	http://sourceforge.net/projects/musicpd/files/gmpc-plugins/%{version}/%{name}-%{version}.tar.gz
+Source0:	http://download.sarine.nl/Programs/gmpc/%{version}/%{name}-%{version}.tar.gz
 BuildRequires:	libmpd-devel >= 0.14.99
 BuildRequires:	libxml2-devel
 BuildRequires:	gtk+2-devel >= 2.4
