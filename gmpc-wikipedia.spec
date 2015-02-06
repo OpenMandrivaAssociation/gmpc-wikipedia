@@ -1,7 +1,7 @@
 Summary:	A wikipedia plugin for gmpc
 Name:		gmpc-wikipedia
 Version:	0.20.0
-Release:	4
+Release:	5
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl/
