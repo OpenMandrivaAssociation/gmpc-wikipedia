@@ -4,7 +4,7 @@ Version:	0.20.0
 Release:	5
 License:	GPLv2+
 Group:		Sound
-Url:		http://www.sarine.nl/
+Url:		https://www.sarine.nl/
 Source0:	http://download.sarine.nl/Programs/gmpc/%{version}/%{name}-%{version}.tar.gz
 BuildRequires:	libmpd-devel >= 0.14.99
 BuildRequires:	libxml2-devel
